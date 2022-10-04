@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ozurumba Victor</h1>
-<h3 align="center">FrontEnd Software Developer and UX Designer</h3>
+<h3 align="center">Creative Software Developer </h3>
 
 
 <p align="left"> <a href="https://twitter.com/MelaninSalad" target="blank"><img src="https://img.shields.io/twitter/follow/MelaninSalad?style=social" alt="Ozurumba Victor" /></a> </p>
