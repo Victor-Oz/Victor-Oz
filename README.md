@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [all things #JavaScript]
 
-- 🌱 I’m currently Working with **React, Sass, Vue, JavaScript , HTML, CSS, BootStrap ,CSS Animations, web Accesibility**
+- 🌱 I’m currently Working with JavaScript, React, Sql, JQuery, Sass, Git, , CSS , web Accesibility **
 
 - 👯 I’m looking to collaborate on new projects
 
