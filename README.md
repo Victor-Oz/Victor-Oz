@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/MelaninSalad" target="blank"><img src="https://img.shields.io/twitter/follow/MelaninSalad?style=social" alt="Ozurumba Victor" /></a> </p>
 
-- 🔭 I’m currently working on [all things #JavaScript]
+- 🔭 I’m currently working on [all things #JavaScript and React]
 
-- 🌱 I’m currently Working with JavaScript, React, Sql, JQuery, Sass, Git, , CSS , web Accesibility
+- 🌱 I’m currently Working with JavaScript, Reactjs , Context API, Sass, CSS, HTML , Material UI, Bootstrap, Styled Components, JQuery, React Testing Library, Netlify, Figma ,Git, Responsive Web Design, CSS Animations, Framer Motion. , web Accesibility
 
 - 👯 I’m looking to collaborate on new projects
 
