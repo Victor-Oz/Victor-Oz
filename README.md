@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [all things #JavaScript and React]
 
-- 🌱 I’m currently Working with JavaScript, Reactjs , Context API, Sass, CSS, HTML , Material UI, Bootstrap, Styled Components, JQuery, React Testing Library, Netlify, Figma ,Git, Responsive Web Design, CSS Animations, Framer Motion , web Accesibility ,Jsx ,parcel , vite.
+- 🌱 I’m currently Working with JavaScript, Reactjs , Context API, Sass, CSS, HTML , Material UI, Bootstrap, Styled Components, JQuery, React Testing Library, Netlify, Figma ,Git ,Github, Responsive Web Design, CSS Animations, Framer Motion , web Accesibility ,Jsx ,parcel , vite.
 
 - 👯 I’m looking to collaborate on new projects
 
