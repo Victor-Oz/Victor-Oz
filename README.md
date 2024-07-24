@@ -22,5 +22,5 @@
 
 <a href="https://www.linkedin.com/in/victor-ozurumba-b15429209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Victor Ozurumba" height="40" width="50" /></a>
 </p>
- <img src="https://github-readme-stats.vercel.app/api?username=Victor-Oz&show_icons=true&theme=tokyonight" alt="Aayush Sharma" />
+
 
